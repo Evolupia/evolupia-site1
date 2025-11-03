@@ -1,0 +1,14 @@
+<!-- public/evolupia.svg – placeholder elegante (substitui depois pelo SVG oficial) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" role="img" aria-label="Evolupia">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F5C518"/>
+      <stop offset="1" stop-color="#D9A406"/>
+    </linearGradient>
+  </defs>
+  <!-- símbolo geométrico simples -->
+  <path d="M30 7 L50 30 L30 53 L10 30 Z" fill="url(#g)"/>
+  <!-- wordmark simples (substituível) -->
+  <text x="70" y="38" font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-weight="600" font-size="28" fill="url(#g)">EVOLUPIA</text>
+</svg>
